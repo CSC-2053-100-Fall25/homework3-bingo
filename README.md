@@ -1,2 +1,2 @@
-# homework3-bingo
-Bingo files for homework3
+# homework3-react
+Tic-Tac-Toe files for homework3
